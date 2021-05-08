@@ -10,3 +10,5 @@ int main(int argc, char const *argv[]) {
   std::cout << "printing favorite number ", favorite << '\n';
   return 0;
 }
+
+// g++ -Wall -std=c++17 program_002.cpp -o program_002

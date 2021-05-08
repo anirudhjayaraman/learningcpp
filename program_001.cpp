@@ -12,3 +12,5 @@ int main(int argc, char const *argv[]) {
   std::cout << "Wow, that's my favorite number too!" << '\n';
   return 0;
 }
+
+// g++ -Wall -std=c++17 program_001.cpp -o program_001
