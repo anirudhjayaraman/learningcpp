@@ -1,5 +1,6 @@
 /*
 sizeof primitive types and their minimum values
+sizeof user defined variables
 */
 
 #include <iostream>
