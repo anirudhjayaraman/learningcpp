@@ -28,8 +28,8 @@ int main(int argc, char const *argv[]) {
   const double sales_tax {0.06};
   const int num_days {30};
 
-  int num_rooms, cost;
-  double total_estimate, tax;
+  int num_rooms {0}, cost {0};
+  double total_estimate {0.0}, tax {0.0};
 
   cout << "How many rooms would you like cleaned?" << endl;
   cin >> num_rooms;
