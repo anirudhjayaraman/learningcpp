@@ -1,6 +1,7 @@
 /*
 Coding Exercise 8
 with Increment / Decrement operators
+Compound Assignment
 */
 
 #include <iostream>
